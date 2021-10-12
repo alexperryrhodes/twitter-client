@@ -8,7 +8,7 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User sees app icon in home screen and styled launch screen. (1pt)
+- [x] User sees app icon in home screen and styled launch screen. (1pt)
 - [x] User can log in. (1pt)
 - [x] User can log out. (1pt)
 - [x] User stays logged in across restarts. (1pt)
@@ -17,11 +17,10 @@ The following **required** functionality is completed:
 The following **bonus** features are implemented:
 
 - [x] User can pull to refresh. (1pt)
-- [ ] User can load past tweets infinitely. (2pts)
+- [x] User can load past tweets infinitely. (2pts)
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![](https://i.imgur.com/o0U4vve.gif)
